@@ -2389,7 +2389,8 @@
       "@toolsdk-remote/llms-txt-validator",
       "@toolsdk-remote/otakit",
       "erius-phone-mcp",
-      "orcareplay"
+      "orcareplay",
+      "apple-docs-2.0-mcp"
     ]
   },
   "data-science-tools": {
@@ -4006,7 +4007,8 @@
       "@toolsdk-remote/pagewire",
       "@toolsdk-remote/whimbrel-medtech-analyst",
       "proofite-mcp",
-      "screenpipe-mcp"
+      "screenpipe-mcp",
+      "@toolsdk-remote/looot-mcp"
     ]
   },
   "security": {

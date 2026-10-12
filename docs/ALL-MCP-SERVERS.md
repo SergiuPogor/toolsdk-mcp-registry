@@ -1,6 +1,6 @@
 # 📚 All MCP Servers
 
-> **Complete directory of all 5027+ MCP servers in the ToolSDK Registry**
+> **Complete directory of all 5029+ MCP servers in the ToolSDK Registry**
 >
 > Looking for production-ready servers only? See the [main README](../README.md) for validated servers.
 
@@ -8,9 +8,9 @@
 
 ## 📊 Statistics
 
-- 📦 **Total Servers**: 5027
+- 📦 **Total Servers**: 5029
 - ✅ **Validated & Tested**: 811
-- ⚙️ **Community Contributed**: 4216
+- ⚙️ **Community Contributed**: 4218
 
 ---
 
@@ -2053,7 +2053,7 @@ New mcp tool: Exa-code is a context tool for coding   (node)
 
 
 <a id="developer-tools"></a>
-### Developer Tools <small>(390 servers)</small>
+### Developer Tools <small>(391 servers)</small>
 
 > Enhance your development workflow with tools for coding and environment management.
 
@@ -2189,6 +2189,7 @@ New mcp tool: Exa-code is a context tool for coding   (node)
 - [❌ api-documentation](https://github.com/crazyrabbitltc/mcp-expert-server): Provides documentation assistance capabilities for developers looking to incorporate up-to-date docs in their workflows.  (node)
 - [❌ app-store-connect](https://github.com/joshuarileydev/app-store-connect-mcp-server): Manage iOS app distribution and testing workflows.  (node)
 - [❌ apple-developer-documentation](https://github.com/mightydillah/apple-doc-mcp): Provides seamless access to Apple Developer Documentation with smart search capabilities and wildcard pattern support for iOS, macOS, SwiftUI, and UIKit development, featuring priority-based framework searching and intelligent caching for efficient API discovery and symbol documentation retrieval.  (node)
+- [❌ apple-docs-2.0-mcp](https://github.com/mishafyi/Apple-Docs-2.0-MCP): Searches and reads Apple's developer documentation, Human Interface Guidelines, App Store Connect Help and sample code, with search that returns developer.apple.com's own results, an offline index of 336,629 pages, and 1,700 WWDC sessions (2014-2026) with transcripts and code.  (node)
 - [❌ archai-hexagonal-architecture-analyzer](https://github.com/alefcastelo/archai-static-analyzer-mcp): Enforces hexagonal architecture principles in Java applications through static code analysis that validates architectural rules including dependency limitations, domain isolation, naming conventions, and proper email handling.  (node)
 - [❌ archetypal-ai](https://github.com/archetypal-ai/archetypal-ai): Persistent memory for AI agents. recall, remember, checkpoint.  (node)
 - [❌ archy](https://github.com/phxdev1/archy-mcp): Generates architectural diagrams from text descriptions or GitHub repositories using Mermaid syntax, supporting flowcharts, class diagrams, sequence diagrams, and repository evolution tracking.  (node)
@@ -3623,7 +3624,7 @@ New mcp tool: Exa-code is a context tool for coding   (node)
 
 
 <a id="search-data-extraction"></a>
-### Search & Data Extraction <small>(437 servers)</small>
+### Search & Data Extraction <small>(438 servers)</small>
 
 > Find and extract data from various sources quickly and efficiently.
 
@@ -3771,6 +3772,7 @@ New mcp tool: Exa-code is a context tool for coding   (node)
 - [❌ @toolsdk-remote/indexlinks](#): Check how search engines and AI crawlers see a site, send new pages to Bing, Google (via Search Console) and AI crawlers, and read verified crawl receipts.  (node)
 - [❌ @toolsdk-remote/lex-ray](https://lexray.simmons-simmons.com/): Search structured EU and UK legislation. Metadata is public, showcase articles need a free account, and full text needs Lex-Ray access.  (python)
 - [❌ @toolsdk-remote/locate-jobs-network](https://locatejobsnetwork.com): Search current office and desk jobs across the Locate Jobs Network boards.  (node)
+- [❌ @toolsdk-remote/looot-mcp](https://github.com/loootai/looot-mcp): Remote MCP server for work email and phone lookup, email verification, company and people search, Google results, web page reads, LinkedIn profiles, tech stack and local business data, paid per call from one prepaid balance. 18 tools and 4 prompts.  (node)
 - [❌ @toolsdk-remote/newsletter-commerce-mcp](https://github.com/teamsincetoday/newsletter-commerce-mcp): Extracts affiliate-ready product entities from newsletter content. Identifies products, brands, categories, sponsorship context, and purchase intent with 100% F1 accuracy. Free tier: 200 calls/day. Paid: $0.01/call via x402 micropayments. OWASP-compliant, 643 tests.  (node)
 - [❌ @toolsdk-remote/ouroboros-papers](https://github.com/LAHutchins91/papers-mcp): Papers by Ouroboros Apps (https://ouroborosapps.com). Research paper search with real citations from OpenAlex, Semantic Scholar, PubMed, Crossref, and arXiv: find papers, fetch abstracts, follow citations, and format references. Tools: search_papers, get_paper, find_related_papers, format_citation. Hosted remote endpoint with OAuth and Dynamic Client Registration; requires an account. Docs: https://ouroborosapps.com/docs/papers. Published in the Official MCP Registry as io.github.LAHutchins91/papers.  (node)
 - [❌ @toolsdk-remote/ouroboros-patent](https://github.com/LAHutchins91/patent-mcp): Patent by Ouroboros Apps (https://ouroborosapps.com). USPTO patent search and prior art lookup: search public patent records, fetch a patent, list citations, and run a prior-art search. Not legal advice. The hosted server searches the USPTO Open Data Portal; EPO Open Patent Services is not turned on. Tools: search_patents, get_patent, find_patent_citations, search_prior_art. Hosted remote endpoint with OAuth and Dynamic Client Registration; requires an account. Docs: https://ouroborosapps.com/docs/patent. Published in the Official MCP Registry as io.github.LAHutchins91/patent.  (node)

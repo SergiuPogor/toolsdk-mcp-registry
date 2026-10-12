@@ -58492,5 +58492,13 @@
   "tapetide-mcp": {
     "path": "finance-fintech/tapetide-mcp.json",
     "category": "finance-fintech"
+  },
+  "@toolsdk-remote/looot-mcp": {
+    "path": "search-data-extraction/looot-mcp.json",
+    "category": "search-data-extraction"
+  },
+  "apple-docs-2.0-mcp": {
+    "path": "developer-tools/apple-docs-2-0-mcp.json",
+    "category": "developer-tools"
   }
 }
