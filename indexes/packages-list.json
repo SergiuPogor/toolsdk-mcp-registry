@@ -36501,17 +36501,6 @@
       }
     }
   },
-  "@shtse8/pdf-reader-mcp": {
-    "category": "file-systems",
-    "path": "file-systems/shtse8-pdf-reader-mcp.json",
-    "validated": true,
-    "tools": {
-      "read_pdf": {
-        "name": "read_pdf",
-        "description": "Reads content/metadata from one or more PDFs (local/URL). Each source can specify pages to extract."
-      }
-    }
-  },
   "@exoticknight/mcp-file-merger": {
     "category": "file-systems",
     "path": "file-systems/exoticknight-mcp-file-merger.json",
@@ -40573,12 +40562,6 @@
   "deepresearch": {
     "category": "search-data-extraction",
     "path": "search-data-extraction/deepresearch.json",
-    "validated": false,
-    "tools": {}
-  },
-  "screenpipe": {
-    "category": "search-data-extraction",
-    "path": "search-data-extraction/screenpipe.json",
     "validated": false,
     "tools": {}
   },
@@ -58181,5 +58164,333 @@
   "agentrender-mcp": {
     "path": "browser-automation/agentrender-mcp.json",
     "category": "browser-automation"
+  },
+  "@affixio/mcp": {
+    "path": "security/affixio-mcp.json",
+    "category": "security"
+  },
+  "@asterpay/mcp-server": {
+    "path": "finance-fintech/asterpay-mcp-server.json",
+    "category": "finance-fintech"
+  },
+  "@chatpack/mcp": {
+    "path": "developer-tools/chatpack-mcp.json",
+    "category": "developer-tools"
+  },
+  "@dreamworkhq/mcp": {
+    "path": "uncategorized/dreamwork-mcp.json",
+    "category": "uncategorized"
+  },
+  "@fractalai/agent-passport-mcp": {
+    "path": "security/fractalai-agent-passport-mcp.json",
+    "category": "security"
+  },
+  "@makeaivideo/mcp": {
+    "path": "art-and-culture/makeaivideo-mcp.json",
+    "category": "art-and-culture"
+  },
+  "@stockdrifts/cli": {
+    "path": "finance-fintech/stockdrifts.json",
+    "category": "finance-fintech"
+  },
+  "@sylphx/anymd": {
+    "path": "file-systems/sylphx-anymd.json",
+    "category": "file-systems"
+  },
+  "@sylphx/lockdocs": {
+    "path": "developer-tools/sylphx-lockdocs.json",
+    "category": "developer-tools"
+  },
+  "@sylphx/repomap": {
+    "path": "developer-tools/sylphx-repomap.json",
+    "category": "developer-tools"
+  },
+  "@toolsdk-remote/aeon": {
+    "path": "developer-tools/aeon.json",
+    "category": "developer-tools"
+  },
+  "@toolsdk-remote/agentstack": {
+    "path": "developer-tools/agentstack.json",
+    "category": "developer-tools"
+  },
+  "@toolsdk-remote/aihot": {
+    "path": "search-data-extraction/aihot.json",
+    "category": "search-data-extraction"
+  },
+  "@toolsdk-remote/aikstockdata": {
+    "path": "finance-fintech/aikstockdata.json",
+    "category": "finance-fintech"
+  },
+  "@toolsdk-remote/aisle": {
+    "path": "travel-transportation/aisle.json",
+    "category": "travel-transportation"
+  },
+  "@toolsdk-remote/ariadne-therapist-marketing": {
+    "path": "marketing/ariadne-therapist-marketing.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/ball-ranks": {
+    "path": "sports/ball-ranks.json",
+    "category": "sports"
+  },
+  "@toolsdk-remote/bilbop-x402": {
+    "path": "finance-fintech/toolsdk-remote-bilbop-x402.json",
+    "category": "finance-fintech"
+  },
+  "@toolsdk-remote/blawgy": {
+    "path": "marketing/blawgy.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/blockvectra": {
+    "path": "finance-fintech/blockvectra.json",
+    "category": "finance-fintech"
+  },
+  "@toolsdk-remote/boim": {
+    "path": "search-data-extraction/boim.json",
+    "category": "search-data-extraction"
+  },
+  "@toolsdk-remote/callforme": {
+    "path": "communication/callforme.json",
+    "category": "communication"
+  },
+  "@toolsdk-remote/caly": {
+    "path": "communication/caly.json",
+    "category": "communication"
+  },
+  "@toolsdk-remote/carddeals-mcp": {
+    "path": "finance-fintech/carddeals-mcp.json",
+    "category": "finance-fintech"
+  },
+  "@toolsdk-remote/cloud-dchub-mcp": {
+    "path": "data-platforms/dchub-mcp.json",
+    "category": "data-platforms"
+  },
+  "@toolsdk-remote/com-abuzzhive-abuzzhive": {
+    "path": "knowledge-memory/abuzzhive.json",
+    "category": "knowledge-memory"
+  },
+  "@toolsdk-remote/continuity": {
+    "path": "knowledge-memory/continuity.json",
+    "category": "knowledge-memory"
+  },
+  "@toolsdk-remote/cryptowisser-news": {
+    "path": "finance-fintech/cryptowisser-news.json",
+    "category": "finance-fintech"
+  },
+  "@toolsdk-remote/cueframe": {
+    "path": "other-tools-and-integrations/cueframe.json",
+    "category": "other-tools-and-integrations"
+  },
+  "@toolsdk-remote/datacircle": {
+    "path": "marketing/datacircle.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/debriefing": {
+    "path": "marketing/debriefing.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/developer-toolkit-mcp": {
+    "path": "developer-tools/mjaskolski-developer-toolkit-mcp.json",
+    "category": "developer-tools"
+  },
+  "@toolsdk-remote/enhance": {
+    "path": "developer-tools/enhance.json",
+    "category": "developer-tools"
+  },
+  "@toolsdk-remote/fincept-mcp": {
+    "path": "finance-fintech/fincept-mcp.json",
+    "category": "finance-fintech"
+  },
+  "@toolsdk-remote/fitmaxx": {
+    "path": "sports/fitmaxx.json",
+    "category": "sports"
+  },
+  "@toolsdk-remote/gtd-brain": {
+    "path": "other-tools-and-integrations/gtd-brain.json",
+    "category": "other-tools-and-integrations"
+  },
+  "@toolsdk-remote/haulest": {
+    "path": "travel-transportation/haulest.json",
+    "category": "travel-transportation"
+  },
+  "@toolsdk-remote/hyperresearch": {
+    "path": "search-data-extraction/hyperresearch.json",
+    "category": "search-data-extraction"
+  },
+  "@toolsdk-remote/hypnothera": {
+    "path": "other-tools-and-integrations/hypnothera.json",
+    "category": "other-tools-and-integrations"
+  },
+  "@toolsdk-remote/iter0": {
+    "path": "developer-tools/iter0-mcp.json",
+    "category": "developer-tools"
+  },
+  "@toolsdk-remote/llms-txt-validator": {
+    "path": "developer-tools/toolsdk-remote-llms-txt-validator.json",
+    "category": "developer-tools"
+  },
+  "@toolsdk-remote/otakit": {
+    "path": "developer-tools/otakit.json",
+    "category": "developer-tools"
+  },
+  "@toolsdk-remote/ouroboros-claim": {
+    "path": "marketing/ouroboros-claim.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/ouroboros-deposit": {
+    "path": "finance-fintech/ouroboros-deposit.json",
+    "category": "finance-fintech"
+  },
+  "@toolsdk-remote/ouroboros-desk": {
+    "path": "support-service-management/ouroboros-desk.json",
+    "category": "support-service-management"
+  },
+  "@toolsdk-remote/ouroboros-invoice": {
+    "path": "finance-fintech/ouroboros-invoice.json",
+    "category": "finance-fintech"
+  },
+  "@toolsdk-remote/ouroboros-milestone": {
+    "path": "other-tools-and-integrations/ouroboros-milestone.json",
+    "category": "other-tools-and-integrations"
+  },
+  "@toolsdk-remote/ouroboros-papers": {
+    "path": "search-data-extraction/ouroboros-papers.json",
+    "category": "search-data-extraction"
+  },
+  "@toolsdk-remote/ouroboros-patent": {
+    "path": "search-data-extraction/ouroboros-patent.json",
+    "category": "search-data-extraction"
+  },
+  "@toolsdk-remote/ouroboros-rank": {
+    "path": "marketing/ouroboros-rank.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/ouroboros-scope": {
+    "path": "other-tools-and-integrations/ouroboros-scope.json",
+    "category": "other-tools-and-integrations"
+  },
+  "@toolsdk-remote/outsend": {
+    "path": "marketing/outsend.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/pagewire": {
+    "path": "search-data-extraction/pagewire.json",
+    "category": "search-data-extraction"
+  },
+  "@toolsdk-remote/physea-liminal": {
+    "path": "knowledge-memory/physea-liminal.json",
+    "category": "knowledge-memory"
+  },
+  "@toolsdk-remote/playgama-developer-cabinet": {
+    "path": "gaming/playgama-developer-cabinet.json",
+    "category": "gaming"
+  },
+  "@toolsdk-remote/qty": {
+    "path": "other-tools-and-integrations/qty.json",
+    "category": "other-tools-and-integrations"
+  },
+  "@toolsdk-remote/querysail-ga4": {
+    "path": "marketing/querysail-ga4.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/rankcontrol": {
+    "path": "marketing/rankcontrol.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/reach-google-business-profile-mcp": {
+    "path": "marketing/reach-google-business-profile-mcp.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/rhino-rank": {
+    "path": "marketing/rhino-rank.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/rumoro": {
+    "path": "marketing/rumoro.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/serpel-mcp": {
+    "path": "marketing/serpel.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/silicon-floor": {
+    "path": "finance-fintech/silicon-floor.json",
+    "category": "finance-fintech"
+  },
+  "@toolsdk-remote/sitelemetry": {
+    "path": "security/toolsdk-remote-sitelemetry.json",
+    "category": "security"
+  },
+  "@toolsdk-remote/symbioza": {
+    "path": "cloud-platforms/symbioza.json",
+    "category": "cloud-platforms"
+  },
+  "@toolsdk-remote/tarodando": {
+    "path": "monitoring/tarodando.json",
+    "category": "monitoring"
+  },
+  "@toolsdk-remote/testmu-ai-mcp": {
+    "path": "browser-automation/testmu-ai-mcp.json",
+    "category": "browser-automation"
+  },
+  "@toolsdk-remote/unsora": {
+    "path": "marketing/unsora.json",
+    "category": "marketing"
+  },
+  "@toolsdk-remote/whimbrel-medtech-analyst": {
+    "path": "search-data-extraction/toolsdk-remote-whimbrel-medtech-analyst.json",
+    "category": "search-data-extraction"
+  },
+  "@toolsdk-remote/wondel-skills-mcp": {
+    "path": "knowledge-memory/mjaskolski-wondel-skills-mcp.json",
+    "category": "knowledge-memory"
+  },
+  "@toolsdk-remote/yallaexit": {
+    "path": "other-tools-and-integrations/yallaexit.json",
+    "category": "other-tools-and-integrations"
+  },
+  "@toolsdk-remote/zenmode-mcp": {
+    "path": "marketing/zenmode-mcp.json",
+    "category": "marketing"
+  },
+  "@unusualwhales/mcp": {
+    "path": "finance-fintech/unusualwhales-mcp.json",
+    "category": "finance-fintech"
+  },
+  "brianbooms-mcp": {
+    "path": "finance-fintech/brianbooms-mcp.json",
+    "category": "finance-fintech"
+  },
+  "csoai-gspc-mcp": {
+    "path": "security/council-of-ai-gspc.json",
+    "category": "security"
+  },
+  "erius-phone-mcp": {
+    "path": "developer-tools/erius-phone-mcp.json",
+    "category": "developer-tools"
+  },
+  "glongus-mcp": {
+    "path": "other-tools-and-integrations/glongus-mcp.json",
+    "category": "other-tools-and-integrations"
+  },
+  "orcareplay": {
+    "path": "developer-tools/orcareplay.json",
+    "category": "developer-tools"
+  },
+  "proofite-mcp": {
+    "path": "search-data-extraction/proofite.json",
+    "category": "search-data-extraction"
+  },
+  "rapid-indexer-mcp": {
+    "path": "marketing/rapid-indexer-mcp.json",
+    "category": "marketing"
+  },
+  "screenpipe-mcp": {
+    "path": "search-data-extraction/screenpipe.json",
+    "category": "search-data-extraction"
+  },
+  "tapetide-mcp": {
+    "path": "finance-fintech/tapetide-mcp.json",
+    "category": "finance-fintech"
   }
 }

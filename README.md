@@ -11,7 +11,7 @@ Structured JSON, STDIO and Streamable HTTP, with built-in Sandbox and OAuth 2.1 
 
 [![npm version](https://img.shields.io/npm/v/@toolsdk.ai/registry.svg?style=flat-square)](https://www.npmjs.com/package/@toolsdk.ai/registry)
 [![Build status](https://img.shields.io/github/actions/workflow/status/toolsdk-ai/toolsdk-mcp-registry/test.yaml?style=flat-square&label=build)](https://github.com/toolsdk-ai/toolsdk-mcp-registry/actions/workflows/test.yaml)
-[![MCP servers](https://img.shields.io/badge/MCP_servers-4947-0078D4?style=flat-square)](https://toolsdk-ai.github.io/toolsdk-mcp-registry/)
+[![MCP servers](https://img.shields.io/badge/MCP_servers-5027-0078D4?style=flat-square)](https://toolsdk-ai.github.io/toolsdk-mcp-registry/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-239B56?style=flat-square)](./LICENSE)
 [![ToolSDK MCP Community](https://badges.toolsdk.ai/badge/toolsdk-mcp-registry)](https://github.com/toolsdk-ai/toolsdk-mcp-badges)
 
@@ -170,7 +170,7 @@ Use the public JSON endpoint above when you prefer to fetch the catalog directly
 
 ## Capabilities & Architecture
 
-- **Structured Registry** - 4947 MCP servers organized by category, with reusable JSON configurations and tool metadata.
+- **Structured Registry** - 5027 MCP servers organized by category, with reusable JSON configurations and tool metadata.
 - **Federated Discovery** - Search local private entries and the official MCP Registry.
 - **Unified Gateway** - Access local STDIO and remote Streamable HTTP tools through an HTTP API or a standard MCP endpoint.
 - **Sandbox Execution** - Isolated API tool execution with Sandock, Daytona, and E2B.
@@ -229,7 +229,7 @@ to keep it handy and help other developers find it.
 
 ## MCP Servers Directory
 
-**4947 MCP servers for AI agents, integrations, and automation.**
+**5027 MCP servers for AI agents, integrations, and automation.**
 
 [Search the catalog](https://toolsdk-ai.github.io/toolsdk-mcp-registry/) &middot;
 [Browse the complete list](./docs/ALL-MCP-SERVERS.md) &middot;
@@ -792,7 +792,6 @@ Manage files and directories with tools for reading, writing, and organizing fil
 - [✅ @puchunjie/doc-tools-mcp](https://github.com/puchunjie/doc-tools-mcp): Enables natural language-driven Word document creation, editing, and formatting through a Node.js server that integrates seamlessly with development environments for document automation workflows.  (7 tools) (node)
 - [✅ @qpd-v/mcp-delete](https://github.com/qpd-v/mcp-delete): File deletion capabilities to safely delete files when needed, with support for both relative and absolute paths.  (1 tools) (node)
 - [✅ @shtse8/filesystem-mcp](https://github.com/sylphxltd/filesystem-mcp): Provides secure, controlled filesystem operations within a project's root directory, enabling safe file listing, reading, writing, and searching with robust path validation.  (13 tools) (node)
-- [✅ @shtse8/pdf-reader-mcp](https://github.com/sylphxltd/pdf-reader-mcp): Securely extracts text, metadata, and page information from PDF files within a project directory using pdfjs-dist for both local files and remote URLs.  (1 tools) (node)
 - [✅ @sunwood-ai-labs/source-sage-mcp-server](https://github.com/sunwood-ai-labs/source-sage-mcp-server): Integrates directory structure visualization and analysis tools to generate and reason about project file hierarchies for codebase understanding.  (1 tools) (node)
 - [✅ @sworddut/mcp-ffmpeg-helper](https://github.com/sworddut/mcp-ffmpeg-helper): Provides access to FFmpeg's video processing capabilities including format conversion, audio extraction, trimming, watermarking, frame extraction, and media information retrieval via simple tool calls  (8 tools) (node)
 - [✅ @team-jd/mcp-project-explorer](https://github.com/mausrundung362/mcp-explorer): Provides secure file system exploration and project analysis for TypeScript/JavaScript codebases with tools for project exploration, file search with regex support, file management operations, package dependency analysis, and directory access control through configurable allowed paths.  (6 tools) (node)
