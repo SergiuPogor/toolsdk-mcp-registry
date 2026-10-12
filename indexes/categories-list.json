@@ -959,7 +959,9 @@
       "groundng-(qa-for-cursor)",
       "cloudflare-browser-rendering-(playwright)",
       "x-(twitter)",
-      "agent-qa"
+      "agent-qa",
+      "@toolsdk-remote/agentrender",
+      "agentrender-mcp"
     ]
   },
   "cloud-platforms": {
@@ -1655,7 +1657,8 @@
       "@shinzolabs/hubspot-mcp",
       "mcp-salesforce-connector",
       "@toolsdk-remote/intakra",
-      "@toolsdk-remote/vibe-prospecting"
+      "@toolsdk-remote/vibe-prospecting",
+      "@kooperativa_team/mcp-server"
     ]
   },
   "databases": {
@@ -3939,7 +3942,8 @@
       "scraper-api-mcp",
       "singapore-proxy-mcp",
       "superhighway-mcp",
-      "transcriptfetch-mcp"
+      "transcriptfetch-mcp",
+      "@toolsdk-remote/getyoutubetranscript"
     ]
   },
   "security": {

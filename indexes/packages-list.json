@@ -58165,5 +58165,21 @@
   "sf-intelligence": {
     "path": "developer-tools/sf-intelligence.json",
     "category": "developer-tools"
+  },
+  "@kooperativa_team/mcp-server": {
+    "path": "customer-data-platforms/kooperativa-mcp.json",
+    "category": "customer-data-platforms"
+  },
+  "@toolsdk-remote/agentrender": {
+    "path": "browser-automation/agentrender-remote.json",
+    "category": "browser-automation"
+  },
+  "@toolsdk-remote/getyoutubetranscript": {
+    "path": "search-data-extraction/getyoutubetranscript.json",
+    "category": "search-data-extraction"
+  },
+  "agentrender-mcp": {
+    "path": "browser-automation/agentrender-mcp.json",
+    "category": "browser-automation"
   }
 }
